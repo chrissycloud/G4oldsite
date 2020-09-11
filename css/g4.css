@@ -1,0 +1,93 @@
+.navbar-default .navbar-nav > .active > a,
+.navbar-default .navbar-nav > .active > a:hover,
+.navbar-default .navbar-nav > .active > a:focus {
+  background-color: #0E3913;
+  color: #EEEEEE;
+}
+.navbar-fixed-top {
+/*  border-color: #e7e7e7;*/
+/*  background-color: #22598E;*/
+}
+.navbar-default .navbar-nav > li > a {
+  color: #EEEEEE;
+}
+.navbar {
+  background-color:#1B5E20;
+}
+.navbar-brand img {
+  margin-top: -10px;
+}
+img {
+  max-width: 100%;
+  width: auto\9; /* ie8 */
+}
+li, p {
+  font-size: 1.2em;
+  font-weight: normal;
+}
+#navbarname {
+  font-size: 1.3em;
+}
+figure {
+  float: right;
+  margin: 1em;
+}
+#fig1 {
+  float: left;
+  margin: 1em;
+}
+figcaption {
+  text-align: center;
+  font-size: 1.1em;
+}
+.h1, h1 {
+  font-size: 2.5em;
+}
+footer {
+  text-align: center;
+}
+#body {
+  padding-bottom: 60px;
+}
+#banner {
+    width: 100%;
+    height: auto;
+    margin-bottom: 25px;
+}
+/*@media (max-width: 991px) {
+    .navbar-header {
+        float: none;
+    }
+    .navbar-toggle {
+        display: block;
+    }
+    .navbar-collapse {
+        border-top: 1px solid transparent;
+        box-shadow: inset 0 1px 0 rgba(255,255,255,0.1);
+    }
+    .navbar-collapse.collapse {
+        display: none!important;
+    }
+    .navbar-nav {
+        float: none!important;
+        margin: 7.5px -15px;
+    }
+    .navbar-nav>li {
+        float: none;
+    }
+    .navbar-nav>li>a {
+        padding-top: 10px;
+        padding-bottom: 10px;
+    }
+    .navbar-text {
+        float: none;
+        margin: 15px 0;
+    }
+    /* since 3.1.0 */
+    .navbar-collapse.collapse.in {
+        display: block!important;
+    }
+    .collapsing {
+        overflow: hidden!important;
+    }
+}*/
